@@ -2,5 +2,7 @@ folium==0.14.0
 branca==0.5.0
 streamlit==1.47.1
 pandas==2.3.1
-numpy==2.0.2
+numpy==1.24.3  # Versão mais estável para o folium
 jinja2==3.1.2
+altair==5.5.0
+protobuf==3.20.3
